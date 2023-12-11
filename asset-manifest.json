@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RedPanda-News/static/css/main.073c9b0a.css",
+    "main.js": "/RedPanda-News/static/js/main.d66b9699.js",
+    "static/js/787.4c026eef.chunk.js": "/RedPanda-News/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/RedPanda-News/static/media/loading.d11b638ccc4dea720575.gif",
+    "index.html": "/RedPanda-News/index.html",
+    "main.073c9b0a.css.map": "/RedPanda-News/static/css/main.073c9b0a.css.map",
+    "main.d66b9699.js.map": "/RedPanda-News/static/js/main.d66b9699.js.map",
+    "787.4c026eef.chunk.js.map": "/RedPanda-News/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d66b9699.js"
+  ]
+}
