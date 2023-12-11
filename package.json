@@ -1,7 +1,8 @@
 {
   "name": "newsapp",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://priyanshu91131.github.io/RedPanda-News",
+  "private": "true",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -11,8 +12,11 @@
     "react-router-dom": "^6.18.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+    
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
