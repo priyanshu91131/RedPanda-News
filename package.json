@@ -1,7 +1,7 @@
 {
   "name": "newsapp",
   "version": "0.1.0",
-  "homepage": "https://priyanshu91131.github.io/RedPanda-News",
+  "homepage": "https://priyanshu91131.github.io/RedPanda-News/#",
   "private": "true",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
