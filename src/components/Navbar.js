@@ -19,7 +19,7 @@ export class Navbar extends Component {
                 <div className ="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div className ="navbar-nav">
                     <Link className ="nav-link active" aria-current="page" to="/">Home</Link>
-                    <Link className ="nav-link" to="/">About</Link>
+                    {/* <Link className ="nav-link" to="/">About</Link> */}
 
                 <div className="dropdown">
                   <button className="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
